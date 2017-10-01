@@ -34,37 +34,33 @@ class NavigationScreen(Screen):
             cols: 1
             size_hint_y: None
             height: self.minimum_height
+
             MenuButton
                 id: bt_sched
-                text: 'Schedule'
+                text: 'Programação'
                 on_released: app.load_screen('ScreenSchedule', manager=app.navigation_manager)
             MenuButton
-                text: 'Sponsors'
-                on_released: app.load_screen('ScreenSponsor', manager=app.navigation_manager)
-            MenuButton
-                text: 'Venue'
+                text: 'Localização'
                 on_released: app.load_screen('ScreenVenue', manager=app.navigation_manager)
             MenuButton
-                text: 'OpenSpaces'
-                on_released: app.load_screen('ScreenOpenSpaces', manager=app.navigation_manager)
+                text: 'Patrocinadores'
+                on_released: app.load_screen('ScreenSponsor', manager=app.navigation_manager)
             MenuButton
-                text: 'DevSprints'
-                on_released: app.load_screen('ScreenDevSprints', manager=app.navigation_manager)
-            MenuButton
-                text: 'Feedback'
-                on_released: app.load_screen('ScreenFeedback', manager=app.navigation_manager)
-            MenuButton
-                text: 'Ticket'
+                text: 'Ingressos'
                 on_released: app.load_screen('ScreenTicket', manager=app.navigation_manager)
             MenuButton
-                text: 'Community'
-                on_released: app.load_screen('ScreenCommunity', manager=app.navigation_manager)
-            MenuButton
-                text: 'Sobre'
-                on_released: app.load_screen('ScreenAbout', manager=app.navigation_manager)
+                text: 'Sobre o evento'
+                on_released: app.load_screen('ScreenAbout', manager=app.navigation_manager)                
             MenuButton
                 text: 'Código de Conduta'
                 on_released: app.load_screen('ScreenCoC', manager=app.navigation_manager)
+            MenuButton
+                text: 'Contato'
+                on_released: app.load_screen('ScreenCommunity', manager=app.navigation_manager)
+            MenuButton
+                text: 'Feedback'
+                on_released: app.load_screen('ScreenFeedback', manager=app.navigation_manager)
+
 
 <TopBar@BoxLayout>
     size_hint: None, None

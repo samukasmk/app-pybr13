@@ -60,8 +60,11 @@ class NavigationScreen(Screen):
                 text: 'Community'
                 on_released: app.load_screen('ScreenCommunity', manager=app.navigation_manager)
             MenuButton
-                text: 'About'
+                text: 'Sobre'
                 on_released: app.load_screen('ScreenAbout', manager=app.navigation_manager)
+            MenuButton
+                text: 'Código de Conduta'
+                on_released: app.load_screen('ScreenCoC', manager=app.navigation_manager)
 
 <TopBar@BoxLayout>
     size_hint: None, None
@@ -86,7 +89,7 @@ class NavigationScreen(Screen):
 
 <NavigationScreen>
     name: 'NavigationScreen'
-    on_enter: 
+    on_enter:
         import os
         scr = os.environ.get('PYTHONBRASIL_STARTUP_SCREEN','ScreenSchedule')
         app.load_screen(scr, manager=app.navigation_manager)

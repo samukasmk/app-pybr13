@@ -6,19 +6,19 @@ from functools import partial
 import webbrowser
 
 
-class ScreenAbout(Screen):
+class ScreenCoC(Screen):
     Builder.load_string('''
-<ScreenAbout>
+<ScreenCoC>
     spacing: dp(9)
-    name: 'ScreenAbout'
+    name: 'ScreenCoC'
     ScrollView
         id: scroll
         ScrollGrid
-            AsyncImage
-                id: imgbt
-                allow_stretch: True
-                size_hint_y: None
-                height: dp(200)
+            BackLabel
+                text: 'Código de Conduta do Evento Python Brasil'
+                size_hint: 1, None
+                height: dp(20)
+                font_size:dp(18)
             BackLabel
                 id: comm_desc
             FloatLayout
@@ -26,7 +26,7 @@ class ScreenAbout(Screen):
                 height: dp(45)
                 ActiveButton
                     id: but
-                    text: "Visite nosso website"
+                    text: "Consulte online"
                     size_hint: None, None
                     width: dp(200)
                     center_x: comm_desc.center_x
@@ -38,17 +38,16 @@ class ScreenAbout(Screen):
 
     def on_enter(self, onsuccess=False):
         from network import get_data
-        about = get_data('about', onsuccess=onsuccess)
+        coc = get_data('coc', onsuccess=onsuccess)
 
-        if not about:
+        if not coc:
             return
 
-        about = about.get('0.0.1')[0]
-        imbt = self.ids.imgbt
-        imbt.source = about['logo']
-        self.ids.but.on_released = partial(webbrowser.open, about['website'])
+        coc = coc.get('0.0.1')[0]
 
-        self.ids.comm_desc.text = about['about']
+        self.ids.but.on_released = partial(webbrowser.open, coc['website'])
+
+        self.ids.comm_desc.text = coc['coc']
         self.ids.comm_desc.halign = 'left'
 
         Factory.Animation(opacity=1, d=.5).start(self.ids.scroll)

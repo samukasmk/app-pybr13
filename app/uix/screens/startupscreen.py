@@ -38,8 +38,8 @@ class StartupScreen(Screen):
     size_hint_y: None
     height: (self.texture_size[1] + dp(9)) if self.text else 0
     backcolor: app.base_active_bright[:3] +  [0.5]
-    text_size: self.width - dp(9), None   
-    halign: 'center'    
+    text_size: self.width - dp(9), None
+    halign: 'center'
 
 <LeftAlignedLabel@SingleLineLabel>
     halign: 'left'
@@ -81,7 +81,7 @@ class StartupScreen(Screen):
         Clock.schedule_once(lambda dt: app.load_screen('NavigationScreen'), 1)
     Background:
         backcolor: app.base_color
-        source: 'atlas://data/default/bg'
+        source: 'app/data/images/background.jpg'
     Image
         id: img_logo
         allow_strech: True
@@ -89,4 +89,3 @@ class StartupScreen(Screen):
         size_hint_y: None
 
 ''')
-    

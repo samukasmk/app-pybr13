@@ -50,7 +50,7 @@ class NavigationScreen(Screen):
                 on_released: app.load_screen('ScreenTicket', manager=app.navigation_manager)
             MenuButton
                 text: 'Sobre o evento'
-                on_released: app.load_screen('ScreenAbout', manager=app.navigation_manager)                
+                on_released: app.load_screen('ScreenAbout', manager=app.navigation_manager)
             MenuButton
                 text: 'Código de Conduta'
                 on_released: app.load_screen('ScreenCoC', manager=app.navigation_manager)
@@ -76,7 +76,7 @@ class NavigationScreen(Screen):
 
 
 <RightPanel@BoxLayout+Background>
-    source: 'atlas://data/default/bg'
+    source: 'app/data/images/background.jpg'
     orientation: "vertical"
     TopBar
     ScreenManager
@@ -95,5 +95,5 @@ class NavigationScreen(Screen):
         LeftPanel
             id: left_panel
         RightPanel
-            opacity: 1-(self.x/root.right)
+            opacity: 1.2-(self.x/root.right)
 ''')

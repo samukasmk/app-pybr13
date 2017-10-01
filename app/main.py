@@ -8,7 +8,7 @@ __version__ = '1.0.0'
 
 
 
-# imports 
+# imports
 import os, sys
 from os.path import abspath, dirname
 # This allows you to use a custom data dir for kivy allowing you to
@@ -38,14 +38,15 @@ import webbrowser
 
 class PyConApp(App):
     ''' Our main app class:
-    - 
+    -
     '''
 
-    base_active_bright = ListProperty((226/255.,168/255.,180/255., 1))
+    base_active_bright = ListProperty((55/255., 195/255., 162/255., 1))
     '''
     '''
 
-    base_active_color = ListProperty([186/256., 106/256., 54./255, 1])
+    # cor do titulo amarelo
+    base_active_color = ListProperty([243/255, 189/255, 0/255, 1])
     '''This is the base Color in the app that is used to denote the currently
     active widgets, active buttons and highlited areas. Format
     is RGBA.
@@ -55,7 +56,8 @@ class PyConApp(App):
     defaults to Red(217, 52, 47)
     '''
 
-    base_inactive_color = ListProperty([141/256., 40/256., 40/256., 1])
+    #
+    base_inactive_color = ListProperty([243/256., 189/256., 0/256., 1])
     '''This is the base Color in the app that is used to denote the currently
     inactive items, inactive buttons and highlited areas. Format
     is RGBA.
@@ -65,7 +67,8 @@ class PyConApp(App):
     defaults to Red(217, 52, 47)
     '''
 
-    base_inactive_light = ListProperty([163/256., 112/256., 80/256., 1])
+    # botoes verde agua
+    base_inactive_light = ListProperty([15/256., 195/256., 162/256., 1])
     '''This is the base Color in the app that is used to denote the currently
     active color used to display active buttons and highlited areas. Format
     is RGBA.
@@ -75,7 +78,8 @@ class PyConApp(App):
     defaults to Red(225p, 224, 224)
     '''
 
-    base_color = ListProperty([120./255, 64./255, 75./255, 1])
+    # fundo azul
+    base_color = ListProperty([37./255, 140./255, 246./255, 100])
     '''This is the base Color in the app that is used to for bakgrounds.
 
     :attr:`base_color` is a :class:`~kivy.properties.ListProperty`
@@ -116,10 +120,10 @@ class PyConApp(App):
 
     def on_pause(self):
         # return True to allow for the app to pause
-        return True 
+        return True
 
     def on_start(self):
-        # bind to the keyboard to listen to 
+        # bind to the keyboard to listen to
         # specific key codes
         from utils.keyboard import hook_keyboard
         hook_keyboard()
@@ -148,7 +152,7 @@ class PyConApp(App):
                 scr.name,
                 manager=scr.manager,
                 store_back=False)
-        except IndexError: 
+        except IndexError:
             # at root of app. Pause it.
             from utils import pause_app
             pause_app()
@@ -166,13 +170,13 @@ class PyConApp(App):
         # load screen modules dynamically
         # for example load_screen('LoginScreen')
         # will look for uix/screens/loginscreen
-        # load LoginScreen 
+        # load LoginScreen
         module_path = screen.lower()
         if not hasattr(self, module_path):
             import imp
             module = imp.load_module(screen, *imp.find_module(module_path))
             screen_class = getattr(module, screen)
-            sc = screen_class() 
+            sc = screen_class()
             sc.from_back = not store_back
             setattr(self, module_path, sc)
             manager.add_widget(sc)

@@ -1,5 +1,5 @@
 # -*- coding: utf8 -*-
-'''App for PyDelhi Conf 2017:
+'''App for Python Brasil [13] 2017:
 
 Github Repo: http://github.com/
 '''
@@ -109,8 +109,8 @@ class PyConApp(App):
         # button is pressed.
         self._navigation_higherarchy = []
         # this is the main entry point of our app
-        from uix.pydelhiconf import PyDelhiConfScreenManager
-        sm = PyDelhiConfScreenManager()
+        from uix.appconf import PythonBrasilConfScreenManager
+        sm = PythonBrasilConfScreenManager()
         # This `sm` is the root widget of our app refered by app.root
         return sm
 

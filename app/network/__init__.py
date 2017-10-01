@@ -64,7 +64,7 @@ def fetch_remote_data(dt):
     endpoint, filepath, oldata = fetch_remote_data._args
     req = UrlRequest(
         #FIXME: initial url should be abstracted out too.
-        'http://conference.pydelhi.org/api/' + endpoint + '.json',
+        'http://samuka.io/pythonbrasil_mobile/app/data/{}.json'.format(endpoint),
         file_path=filepath,
         on_success=lambda req ,r2:on_success(req, oldata, endpoint),
         on_error=lambda req ,r2:on_error(req, oldata, endpoint),
@@ -77,13 +77,13 @@ trigger_fetch_remote_data = Clock.create_trigger(fetch_remote_data, 9)
 
 def get_data(endpoint, onsuccess=False):
     filepath = app.script_path + '/data/' + endpoint + '.json'
-    
+
     #use old data to check if anything in the data has been updated.
     oldata = None
     with open(filepath) as f:
         oldata = f.read()
 
-    if os.environ.get("PYDELHI_OFFLINE_MODE", None) == '1':
+    if os.environ.get("OFFLINE_MODE", None) == '1':
         onsuccess = True
     if not onsuccess:
         fetch_remote_data._args = endpoint, filepath, oldata

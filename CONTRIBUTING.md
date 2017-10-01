@@ -1,4 +1,4 @@
-Thanks for showing interest in development of PyDelhi Conf app.
+Thanks for showing interest in development of Python Brasil [13] app.
 The app requires many modifications as listed in the [README](./README.md).
 
 

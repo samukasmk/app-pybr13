@@ -31,7 +31,7 @@ class ScreenTicket(Screen):
             ActiveButton
                 text: 'Buy tickets'
                 on_release:
-                    webbrowser.open('http://bit.do/pydelhiconf2017tickets')
+                    webbrowser.open('http://bit.do/appconf2017tickets')
 ''')  
 
     

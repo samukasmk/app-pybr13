@@ -6,7 +6,7 @@
 			"type": "default",
 			"speaker": {
 				"name": "Volunteers",
-				"info": " The team of PyDelhi would help you to get registered for the event.\n Please lineup on the registeration counter at the entrance of the venue.",
+				"info": " The team of PythonBrasil would help you to get registered for the event.\n Please lineup on the registeration counter at the entrance of the venue.",
 				"photo": "https://cdn2.iconfinder.com/data/icons/healer-flat-vol-1/201/registration-reservation-admission-cashier-512.png"
 			}
 		},
@@ -16,7 +16,7 @@
 			"type": "default",
 			"speaker": {
 				"name": "S R Mustafa & Sheeba Khan",
-				"info": "Official opening of PyDelhiConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
+				"info": "Official opening of PythonBrasilConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
 				"photo": "http://www.newscaststudio.com/wp-content/uploads/2016/07/2016-rio-olympics-opening-ceremony-promo.png"
 			}
 		},
@@ -49,12 +49,12 @@
 			"type": "talk",
 			"speaker": {
 				"name": "Shashank Kumar",
-				"info": "Shashank is a Computer Science undergrad from Noida Institute Of Engineering and Technology. He's a Python Enthusiast, open source contributor and like to learn about the buzz-words in this technological era. You can find out more about him by the given links. He's given a lightning talk on Telegram Bot using Python on PyDelhi where Ihecreated a bot for PyDelhi's Telegram group which you can see in action on https://telegram.me/pydelhibot",
+				"info": "Shashank is a Computer Science undergrad from Noida Institute Of Engineering and Technology. He's a Python Enthusiast, open source contributor and like to learn about the buzz-words in this technological era. You can find out more about him by the given links. He's given a lightning talk on Telegram Bot using Python on PythonBrasil where Ihecreated a bot for PythonBrasil's Telegram group which you can see in action on https://telegram.me/appbot",
 				"photo": "https://avatars1.githubusercontent.com/u/10004530?v=3&s=400?=g.jpg",
 				"social": [{
 					"website": "http://shanky.xyz",
 					"github": "https://github.com/realslimshanky",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/telegram-bot-using-python~bW6Ja/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/telegram-bot-using-python~bW6Ja/"
 				}]
 			}
 		},
@@ -70,7 +70,7 @@
 					"twitter": "https://twitter.com/iaktech",
 					"github": "https://github.com/aktech",
 					"website": "http://iamit.in/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/lets-talk-about-gil~bkR5a/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/lets-talk-about-gil~bkR5a/"
 				}]
 			}
 		},
@@ -100,7 +100,7 @@
 				"social": [{
 					"twitter": "http://twitter.com/skeptichacker",
 					"github": "https://github.com/pythonhacker",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/concurrency-in-the-python-30-world-oh-my~aMj3b/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/concurrency-in-the-python-30-world-oh-my~aMj3b/"
 				}]
 			}
 		},
@@ -118,7 +118,7 @@
 					"website": "http://ashutoshksingh.com",
 					"facebook": "https://www.facebook.com/ashutosh.k.singh.902?fref=hovercard",
 					"linkedin": "https://www.linkedin.com/in/ashutosh-kumar-singh-a4b59785/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/developing-scalable-apps-in-python-with-google-app-engine~bmw0e/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/developing-scalable-apps-in-python-with-google-app-engine~bmw0e/"
 				}]
 			}
 		},
@@ -132,7 +132,7 @@
 				"photo": "http://startupsclub.org/wp-content/uploads/2016/11/dorai-thodla-dd.jpg",
 				"social": [{
 					"website": "http://doraithodla.com/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/building-chatbots-with-pythondjango~dJ62d/",
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/building-chatbots-with-pythondjango~dJ62d/",
 					"github": "https://github.com/dorait",
 					"twitter": "https://twitter.com/dorait?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 				}]
@@ -172,7 +172,7 @@
 					"linkedin": "https://in.linkedin.com/in/aniketmaithani",
 					"facebook": "https://facebook.com/aniket.maithani",
 					"Website": "http://www.aniketmaithani.net/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/property-based-testing-101~aKOna/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/property-based-testing-101~aKOna/"
 
 				}]
 			}
@@ -187,7 +187,7 @@
 				"photo": "https://pbs.twimg.com/profile_images/779995345220624384/xOJiOILu.jpg",
 				"social": [{
 					"github": "https://github.com/pushp",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/debugging-an-art-for-smart~aO7Na/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/debugging-an-art-for-smart~aO7Na/"
 				}]
 			}
 		},
@@ -201,7 +201,7 @@
 				"photo": "https://avatars3.githubusercontent.com/u/11822050?v=3&s=460",
 				"social": [{
 					"github": "https://github.com/parulsethi",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/comparing-word-embeddings-with-gensim~eERva/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/comparing-word-embeddings-with-gensim~eERva/"
 				}]
 			}
 		},
@@ -221,12 +221,12 @@
 			"type": "talk",
 			"speaker": {
 				"name": "Sanyam Khurana",
-				"info": "Sanyam is an Open Source Contributor from Delhi, India. Mostly goes by CuriousLearner all over the web. He contributes to various upstream projects in different organizations & maintains a few of them. He has contributed various patches and bug reports upstream to Gecko Engine from Mozilla Organization. He is a vouched Mozillian & an official Representative of Mozilla and has been listed in AUTHORS as well as credits section of every browser ever released by Mozilla. He mentored for PyDSA in RGSoC 2017. He volunteers for PyCon India and PyDelhiConf and has been an active member of PyDelhi, ILUG-D, LinuxChixIndia and DGPLUG.",
+				"info": "Sanyam is an Open Source Contributor from Delhi, India. Mostly goes by CuriousLearner all over the web. He contributes to various upstream projects in different organizations & maintains a few of them. He has contributed various patches and bug reports upstream to Gecko Engine from Mozilla Organization. He is a vouched Mozillian & an official Representative of Mozilla and has been listed in AUTHORS as well as credits section of every browser ever released by Mozilla. He mentored for PyDSA in RGSoC 2017. He volunteers for PyCon India and PythonBrasilConf and has been an active member of PythonBrasil, ILUG-D, LinuxChixIndia and DGPLUG.",
 				"photo": "https://www.gravatar.com/avatar/b3b24db20c76e4a24941c0382718dd43?s=328&d=identicon&r=PG",
 				"social": [{
 					"github": "http://www.github.com/CuriousLearner",
 					"website": "http://www.sanyamkhurana.com/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/optimizing-django-for-building-high-performance-systems~b68ne/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/optimizing-django-for-building-high-performance-systems~b68ne/"
 				}]
 			}
 		},
@@ -241,7 +241,7 @@
 				"social": [{
 					"github": "https://github.com/shagunsodhani",
 					"website": "https://shagunsodhani.in/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/functional-programming-in-python~aADOe/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/functional-programming-in-python~aADOe/"
 				}]
 			}
 		},
@@ -271,8 +271,8 @@
 			"description": "Register yourselves and get your goodie bag. Have a great day!",
 			"type": "default",
 			"speaker": {
-				"name": "PyDelhi Team",
-				"info": " The team of PyDelhi would help you to get registered for the event.\n Please lineup on the registeration counter at the entrance of the venue.",
+				"name": "PythonBrasil Team",
+				"info": " The team of PythonBrasil would help you to get registered for the event.\n Please lineup on the registeration counter at the entrance of the venue.",
 				"photo": "https://cdn2.iconfinder.com/data/icons/healer-flat-vol-1/201/registration-reservation-admission-cashier-512.png"
 			}
 		},
@@ -296,7 +296,7 @@
 				"photo": "https://secure.meetupstatic.com/photos/member/1/3/4/b/thumb_248464939.jpeg",
 				"social": [{
 					"github": "https://github.com/akash-47",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/multi-threadingmulti-processing-in-python-using-zeromq~bDRne/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/multi-threadingmulti-processing-in-python-using-zeromq~bDRne/"
 				}]
 			}
 		},
@@ -311,7 +311,7 @@
 				"social": [{
 					"website": "https://saurabh-kumar.com/",
 					"github": "https://github.com/theskumar",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/mocking-in-python-when-and-how-to-use~eVm1d/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/mocking-in-python-when-and-how-to-use~eVm1d/"
 				}]
 			}
 		},
@@ -326,7 +326,7 @@
 				"social": [{
 					"twitter": "www.twitter.com/tuxish",
 					"github": "https://github.com/shivan1b",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/android-app-with-python~dNxza/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/android-app-with-python~dNxza/"
 				}]
 			}
 		},
@@ -342,7 +342,7 @@
 					"twitter": "https://twitter.com/jaysinhp",
 					"github": "https://github.com/ultimatecoder",
 					"website": "http://blog.jaysinh.com/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/tango-with-django~enZle/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/tango-with-django~enZle/"
 				}]
 			}
 		},
@@ -358,7 +358,7 @@
 					"twitter": "http://twitter.com/jaidevd",
 					"github": "http://github.com/jaidevd",
 					"website": "http://jaidevd.github.io/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/understanding-neural-networks-with-theano~dwpRe/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/understanding-neural-networks-with-theano~dwpRe/"
 				}]
 			}
 		},
@@ -402,7 +402,7 @@
 				"photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiZAAAAJDQ3YzJkMTNiLWQ1ZmQtNGViYy05ZDM0LThhZTQ1NTdjNzY0Zg.jpg",
 				"social": [{
 					"linkedin": "https://in.linkedin.com/in/pradhvanbisht",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/a-lazy-programmers-guide-to-automation~avgrb/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/a-lazy-programmers-guide-to-automation~avgrb/"
 				}]
 			}
 		},
@@ -417,7 +417,7 @@
 				"social": [{
 					"github": "https://github.com/Sid675E",
 					"linkedin": "https://www.linkedin.com/in/sidraeffendi/",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/creating-image-thumbnails-using-aws-lamda~bWnga/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/creating-image-thumbnails-using-aws-lamda~bWnga/"
 				}]
 			}
 		},
@@ -432,7 +432,7 @@
 				"social": [{
 					"github": "https://github.com/stucchio",
 					"website": "https://www.chrisstucchio.com/archives.html",
-					"proposal": "https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/an-introduction-to-bayesian-statistics-for-the-python-programmer-no-data-science-experience-needed~e5yBe/"
+					"proposal": "https://2017.pythonbrasil.org.br/app-conference-2017/proposals/an-introduction-to-bayesian-statistics-for-the-python-programmer-no-data-science-experience-needed~e5yBe/"
 				}]
 			}
 		},

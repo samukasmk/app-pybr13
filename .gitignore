@@ -33,10 +33,10 @@ MANIFEST
 *.manifest
 *.spec
 
-#pydelhiconf/data/tracks.json
-#pydelhiconf/data/sponsors.json
-#pydelhiconf/data/schedule.json
-#pydelhiconf/data/community.json
+#appconf/data/tracks.json
+#appconf/data/sponsors.json
+#appconf/data/schedule.json
+#appconf/data/community.json
 
 # Installer logs
 pip-log.txt

@@ -88,7 +88,7 @@ class NavigationScreen(Screen):
     name: 'NavigationScreen'
     on_enter: 
         import os
-        scr = os.environ.get('PYDELHI_STARTUP_SCREEN','ScreenSchedule')
+        scr = os.environ.get('PYTHONBRASIL_STARTUP_SCREEN','ScreenSchedule')
         app.load_screen(scr, manager=app.navigation_manager)
     NavigationDrawer
         id: navigationdrawer

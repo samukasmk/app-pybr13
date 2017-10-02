@@ -1,16 +1,16 @@
 [app]
 
 # (str) Title of your application
-title = PyDelhi Conf 2017
+title = Python Brasil 2017
 
 # (str) Package name
 package.name = conference
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.pydelhiconf
+package.domain = br.org.pythonbrasil
 
 # (str) Source code where the main.py live
-source.dir = ./pydelhiconf
+source.dir = ./app
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas,vs,fs,json,gif
@@ -25,7 +25,7 @@ source.include_exts = py,png,jpg,kv,atlas,vs,fs,json,gif
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.3
+version = 0.1
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
@@ -43,10 +43,10 @@ requirements = hostpython2,android,openssl,kivy,futures,requests
 #garden_requirements =
 
 # (str) Presplash of the application
-presplash.filename = %(source.dir)s/data/icon.png
+presplash.filename = %(source.dir)s/data/images/icon.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/data/icon.png
+icon.filename = %(source.dir)s/data/images/icon.png
 
 # (str) Supported orientation (one of landscape, portrait or all)
 orientation = portrait

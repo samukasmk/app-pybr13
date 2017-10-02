@@ -41,12 +41,12 @@ class PyConApp(App):
     -
     '''
 
-    base_active_bright = ListProperty((55/255., 195/255., 162/255., 1))
+    base_active_bright = ListProperty((55/256., 195/256., 162/256., 1))
     '''
     '''
 
     # cor do titulo amarelo
-    base_active_color = ListProperty([243/255, 189/255, 0/255, 1])
+    base_active_color = ListProperty([243/256., 189/256., 0/256., 1])
     '''This is the base Color in the app that is used to denote the currently
     active widgets, active buttons and highlited areas. Format
     is RGBA.
@@ -79,7 +79,7 @@ class PyConApp(App):
     '''
 
     # fundo azul
-    base_color = ListProperty([37./255, 140./255, 246./255, 100])
+    base_color = ListProperty([37./256., 140./256., 246./256., 100])
     '''This is the base Color in the app that is used to for bakgrounds.
 
     :attr:`base_color` is a :class:`~kivy.properties.ListProperty`
@@ -107,7 +107,7 @@ class PyConApp(App):
 
     def build(self):
         self.script_path = script_path
-        self.icon = 'data/images/icone-python-bh.png'
+        self.icon = 'data/icon.png'
 
         # Here we build our own navigation higherarchy.
         # So we can decide what to do when the back

@@ -25,7 +25,7 @@ class NavigationScreen(Screen):
     orientation: 'vertical'
     padding: dp(7), dp(7)
     Image
-        source: "atlas://data/default/logo"
+        source: "data/images/logo-python-bh.png"
         size_hint: 1, None
         height: dp(130)
         mipmap: True
@@ -76,7 +76,7 @@ class NavigationScreen(Screen):
 
 
 <RightPanel@BoxLayout+Background>
-    source: 'app/data/images/background.jpg'
+    source: 'data/images/background.jpg'
     orientation: "vertical"
     TopBar
     ScreenManager

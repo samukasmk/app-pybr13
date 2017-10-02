@@ -81,11 +81,11 @@ class StartupScreen(Screen):
         Clock.schedule_once(lambda dt: app.load_screen('NavigationScreen'), 1)
     Background:
         backcolor: app.base_color
-        source: 'app/data/images/background.jpg'
+        source: 'data/images/background.jpg'
     Image
         id: img_logo
         allow_strech: True
-        source: 'atlas://data/default/logo'
+        source: 'data/images/logo-python-bh.png'
         size_hint_y: None
 
 ''')

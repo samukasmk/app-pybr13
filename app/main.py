@@ -107,7 +107,8 @@ class PyConApp(App):
 
     def build(self):
         self.script_path = script_path
-        self.icon = 'data/icon.png'
+        self.icon = 'data/images/icone-python-bh.png'
+
         # Here we build our own navigation higherarchy.
         # So we can decide what to do when the back
         # button is pressed.

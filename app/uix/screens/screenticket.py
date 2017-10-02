@@ -32,7 +32,7 @@ class ScreenTicket(Screen):
         BackLabel:
             id: sample_email
         Image:
-            source: 'app/data/images/ticket.png'
+            source: 'data/images/ticket.png'
             allow_stretch: True
             size: root.size
             opacity: 1

@@ -9,3 +9,5 @@ apk:
 	buildozer android debug
 apk_release:
 	buildozer android release
+dev:
+        OFFLINE_MODE=1 python3.6 app/main.py -m screen:droid2,portrait -m inspector

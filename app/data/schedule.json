@@ -1,263 +1,579 @@
 {
   "0.0.1": [
     {
-      "tracks": ["Audi 1", "Lecture Hall 1", "Lecture Hall 2"],
-      "2017-03-18": [
+      "tracks": ["Aventurine", "Amethyst", "Chrystal"],
+      "2018-10-06": [
         {
-          "talk_id": "00",
-          "title": "Registration",
+          "talk_id": "Credenciamento",
+          "title": "Credenciamento",
           "start_time": "08:00",
           "end_time": "09:00",
-          "track": "all"
+          "track": "1"
         },
         {
           "talk_id": "01",
-          "title": "Introduction to PythonBrasilConf 2017 & IIM L Incubator Introduction",
+          "title": "Abertura - Comunidade PythonMG",
           "start_time": "09:00",
           "end_time": "09:30",
-          "track": "all"
+          "track": "1"
         },
         {
           "talk_id": "02",
-          "title": "Tea",
-          "start_time": "09:30",
-          "end_time": "10:00",
-          "track": "all"
+          "title": "[KEYNOTE] Paola Katherine",
+          "start_time": "09:40",
+          "end_time": "10:20",
+          "track": "1"
         },
+
         {
-          "talk_id": "03",
-          "title": "Keynote: How & Where Python is used by Scientists",
-          "start_time": "10:00",
-          "end_time": "10:50",
-          "track": "all"
+          "talk_id": "Coffe Break",
+          "title": "Coffe Break",
+          "start_time": "10:30",
+          "end_time": "11:00",
+          "track": "1"
         },
+
+
         {
           "talk_id": "04",
-          "title": "Telegram bot using Python",
-          "start_time": "11:40",
-          "end_time": "12:20",
+          "title": "Serenata de Amor: Inteligência artificial usando dados abertos governamentais - Jessica Temporal",
+          "start_time": "11:00",
+          "end_time": "11:30",
           "track": "1"
         },
         {
           "talk_id": "05",
-          "title": "Lets talk about GIL",
-          "start_time": "11:40",
-          "end_time": "12:20",
+          "title": "Python na Manutenção de mais de 100 mil embarcados - Tiago Assunção",
+          "start_time": "11:00",
+          "end_time": "11:30",
           "track": "2"
         },
         {
           "talk_id": "06",
-          "title": "Docker-izing and debugging Python applications with VS Code",
-          "start_time": "11:40",
-          "end_time": "12:20",
+          "title": "Como NÃO programar em Python: crimes dolosos e com agravante - Ryllari Santana",
+          "start_time": "11:00",
+          "end_time": "11:30",
           "track": "3"
         },
+
+
         {
           "talk_id": "07",
-          "title": "Concurrency in Python 3.0 world - Oh My!",
-          "start_time": "12:20",
-          "end_time": "2:20",
+          "title": "Bots (automatizando tarefas) um funcionário que não reclama - Elinaldo Monteiro",
+          "start_time": "11:40",
+          "end_time": "12:15",
           "track": "1"
         },
         {
           "talk_id": "08",
-          "title": "Python 101",
-          "start_time": "12:20",
-          "end_time": "02:20",
+          "title": "Decifrando as Runas dos Anões com Python e Machado de Assis - Hélio de Meira Lins",
+          "start_time": "11:40",
+          "end_time": "12:15",
           "track": "2"
         },
         {
           "talk_id": "09",
-          "title": "Building chatbots with Python/Django",
-          "start_time": "12:20",
-          "end_time": "02:20",
+          "title": "A Qualidade do Ecossistema Python - e o que podemos fazer para mantê-la - Bruno Rocha",
+          "start_time": "11:40",
+          "end_time": "12:15",
           "track": "3"
         },
+
+
         {
-          "talk_id": "10",
-          "title": "Lunch",
-          "start_time": "02:20",
-          "end_time": "03:00",
+          "talk_id": "Almoço",
+          "title": "Almoço",
+          "start_time": "12:15",
+          "end_time": "14:00",
           "track": "all"
         },
+
+
         {
           "talk_id": "11",
-          "title": "Panel Discussion: Data Science Training vs Data Science in the Industry",
-          "start_time": "03:00",
-          "end_time": "04:00",
-          "track": "all"
+          "title": "GraphQL: nem sempre REST é a melhor alternativa para sua API - Nicolle Cysneiros",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "1"
         },
         {
           "talk_id": "12",
-          "title": "Property based testing 101",
-          "start_time": "04:00",
-          "end_time": "04:20",
-          "track": "1"
+          "title": "Wrapping C libraries into Python interfaces - Gustavo Pantuza",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "2"
         },
         {
           "talk_id": "13",
-          "title": "Debugging: An art for smart",
-          "start_time": "04:00",
-          "end_time": "04:30",
-          "track": "2"
+          "title": "Big Data com Apache Spark na Globo.com - Daniela Petruzalek",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "3"
         },
+
+
         {
           "talk_id": "14",
-          "title": "Comparing word embeddings with Gensim",
-          "start_time": "04:00",
-          "end_time": "04:30",
-          "track": "3"
+          "title": "Plataforma distribuída de Microserviços ou, como a Olist funciona - Osvaldo Santana",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "1"
         },
         {
           "talk_id": "15",
-          "title": "Tea",
-          "start_time": "04:30",
-          "end_time": "04:50",
-          "track": "all"
+          "title": "Prevenindo dores de cabeça com linters e checagens automáticas - Flavio Juvenal",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "2"
         },
         {
           "talk_id": "16",
-          "title": "Optimizing Django for building high performance systems",
-          "start_time": "04:50",
-          "end_time": "05:20",
+          "title": "Criando Web Crawlers com Scrapy e Selenium para páginas com Javascript - Gileno Filho",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "3"
+        },
+
+
+        {
+          "talk_id": "17",
+          "title": "Python na Infraestrutura MySQL do Facebook - Artur Rodrigues",
+          "start_time": "15:20",
+          "end_time": "15:50",
           "track": "1"
         },
         {
-          "talk_id": "17",
-          "title": "Functional programming in Python",
-          "start_time": "04:50",
-          "end_time": "05:20",
-          "track": "2"
-         },
-        {
           "talk_id": "18",
-          "title": "Artificial Intelligence & python, opencv: L-Incubator IIM",
-          "start_time": "04:50",
-          "end_time": "05:20",
-          "track": "3"
+          "title": "Desafios e vantagens do trabalho remoto freelancer Python - Julio Melanda",
+          "start_time": "15:20",
+          "end_time": "15:50",
+          "track": "2"
          },
          {
           "talk_id": "19",
+          "title": "Redes Neurais com Python e Scikit - Bianca Rosa",
+          "start_time": "15:20",
+          "end_time": "15:50",
+          "track": "3"
+         },
+
+
+         {
+          "talk_id": "Coffe Break",
+          "title": "Coffee Break",
+          "start_time": "16:00",
+          "end_time": "16:30",
+          "track": "1"
+         },
+
+         {
+          "talk_id": "Lightning talks",
           "title": "Lightning Talks",
-          "start_time": "05:30",
-          "end_time": "06:30",
-          "track": "all"
+          "start_time": "16:30",
+          "end_time": "17:00",
+          "track": "1"
+         },
+
+         {
+          "talk_id": "03",
+          "title": "[KEYNOTE] Manuel Kaufmann",
+          "start_time": "17:10",
+          "end_time": "17:50",
+          "track": "1"
+         },
+
+         {
+          "talk_id": "Encerramento",
+          "title": "Encerramento - Comunidade PythonMG",
+          "start_time": "18:00",
+          "end_time": "18:30",
+          "track": "1"
          }
+
       ],
-      "2017-03-19": [
+      "2018-10-07": [
         {
-          "talk_id": "20",
-          "title": "Registration",
+          "talk_id": "Credenciamento",
+          "title": "Credenciamento",
           "start_time": "08:30",
           "end_time": "09:00",
-          "track": "all"
+          "track": "1"
         },
         {
-          "talk_id": "21",
-          "title": "Tea",
+          "talk_id": "Lightning talks",
+          "title": "Lightning talks",
           "start_time": "09:00",
-          "end_time": "9:30",
-          "track": "all"
-        },
-        {
-          "talk_id": "22",
-          "title": "Multi-threading/Multi-Processing in Python using ZeroMQ.",
-          "start_time": "9:30",
-          "end_time": "10:00",
+          "end_time": "09:30",
           "track": "1"
         },
         {
-          "talk_id": "23",
-          "title": "Mocking in Python",
-          "start_time": "9:30",
-          "end_time": "10:00",
-          "track": "2"
-        },
-        {
-          "talk_id": "24",
-          "title": "Android app with Python",
-          "start_time": "9:30",
-          "end_time": "10:00",
-          "track": "3"
-        },
-        {
-          "talk_id": "25",
-          "title": "Tango with Django",
-          "start_time": "10:10",
-          "end_time": "12:10",
+          "talk_id": "00",
+          "title": "[KEYNOTE] Rodolpho Eckhardt",
+          "start_time": "09:40",
+          "end_time": "10:20",
           "track": "1"
         },
         {
-          "talk_id": "26",
-          "title": "Understanding Neural Networks with Theano",
-          "start_time": "10:10",
-          "end_time": "12:10",
-          "track": "2",
-          "type": "talk"
-        },
-        {
-          "talk_id": "27",
-          "title": "Women in Python World",
-          "start_time": "10:10",
-          "end_time": "12:10",
-          "track": "3"
-        },
-        {
-          "talk_id": "28",
-          "title": "Panel Discussion: State of Python in Delhi/NCR",
-          "start_time": "12:20",
-          "end_time": "01:10",
-          "track": "all"
-        },
-        {
-          "talk_id": "29",
-          "title": "Lunch",
-          "start_time": "01:10",
-          "end_time": "02:00",
-          "track": "all"
-        },
-        {
-          "talk_id": "30",
-          "title": "A lazy programmer's guide to automation",
-          "start_time": "02:00",
-          "end_time": "02:30",
+          "talk_id": "Coffe Break",
+          "title": "Coffe Break",
+          "start_time": "10:30",
+          "end_time": "11:00",
           "track": "1"
         },
-        {
-          "talk_id": "31",
-          "title": "Creating Image Thumbnails using AWS Lamda",
-          "start_time": "02:00",
-          "end_time": "02:30",
-          "track": "2"
-        },
-        {
-          "talk_id": "32",
-          "title": "An Introduction to Bayesian Statistics for the Python Programmer (no data science experience needed)",
-          "start_time": "02:00",
-          "end_time": "02:30",
-          "track": "3"
-        },
-        {
-          "talk_id": "33",
-          "title": "Panel Discussion: OSS Communities in Delhi NCR: How we can possibly collaborate",
-          "start_time": "02:40",
-          "end_time": "03:40",
-          "track": "all"
-        },
-        {
-          "talk_id": "34",
-          "title": "Tea",
-          "start_time": "03:40",
-          "end_time": "04:10",
-          "track": "all"
 
+        {
+          "talk_id": "00",
+          "title": "Agilizando o ciclo de desenvolvimento de software com a ajuda de testes unitários - Paula Grangeiro",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "track": "1"
         },
         {
-          "talk_id": "35",
-          "title": "Closing ceremony/ Feedback session",
-          "start_time": "04:10",
-          "end_time": "04:30",
+          "talk_id": "00",
+          "title": "Salvando grandes projetos - Lais Varejão",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Kivy: Python no celular e em vários outros lugares! - Diego 'Dukão' Guimarães",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "track": "3"
+        },
+
+
+        {
+          "talk_id": "00",
+          "title": "The Walking Dev - Henrique Bastos",
+          "start_time": "11:40",
+          "end_time": "12:15",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Django Migrations: para entender e perder o medo - Kátia Nakamura",
+          "start_time": "11:40",
+          "end_time": "12:15",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Descomplicando os mocks - Douglas Bastos",
+          "start_time": "11:40",
+          "end_time": "12:15",
+          "track": "3"
+        },
+
+
+        {
+          "talk_id": "Almoço",
+          "title": "Almoço",
+          "start_time": "12:15",
+          "end_time": "14:00",
           "track": "all"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "Concorrência e Paralelismo - Threads, Múltiplos processos e ASYNCIO - Diogo Martins",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Associação Python Brasil - Associados",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Gênero e Número: Python ajudando nas questões de gênero brasileiras - Álvaro 'Turicas' Justen",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "track": "3"
+        },
+
+
+
+        {
+          "talk_id": "00",
+          "title": "Python, ciência dos dados e redes sociais: uma combinação poderosa - Alice Adativa",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Associação Python Brasil - Associados",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Generators e Programação Assincrona com Python - Thomaz Reis",
+          "start_time": "14:40",
+          "end_time": "15:10",
+          "track": "3"
+        },
+
+
+        {
+          "talk_id": "00",
+          "title": "Análise de imagens e machine learning utilizando Python e openCV - Paula Santos",
+          "start_time": "15:20",
+          "end_time": "15:50",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Associação Python Brasil - Associados",
+          "start_time": "15:20",
+          "end_time": "15:50",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Python Runtime sem GIL em Golang: Grumpy - Alan Justino",
+          "start_time": "15:20",
+          "end_time": "15:50",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "Coffe Break",
+          "title": "Coffe Break",
+          "start_time": "16:00",
+          "end_time": "16:30",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "Lightning talks",
+          "title": "Lightning talks",
+          "start_time": "16:30",
+          "end_time": "17:00",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "[KEYNOTE] Allison Kaptur",
+          "start_time": "17:10",
+          "end_time": "17:50",
+          "track": "1"
+        },
+
+        {
+         "talk_id": "Encerramento",
+         "title": "Encerramento - Comunidade PythonMG",
+         "start_time": "18:00",
+         "end_time": "18:30",
+         "track": "1"
+        }
+
+
+      ],
+      "2018-10-08": [
+        {
+          "talk_id": "Credenciamento",
+          "title": "Credenciamento",
+          "start_time": "08:30",
+          "end_time": "09:00",
+          "track": "1"
+        },
+        {
+          "talk_id": "Lightning talks",
+          "title": "Lightning talks",
+          "start_time": "09:00",
+          "end_time": "09:30",
+          "track": "1"
+        },
+
+
+        {
+          "talk_id": "00",
+          "title": "Padrões Arquiteturais, muito além do MVC - Darlene Medeiros",
+          "start_time": "09:40",
+          "end_time": "10:10",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Previsão de séries temporais com PyData e Inteligência Artificial - Rebeca Sarai",
+          "start_time": "09:40",
+          "end_time": "10:10",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Projetos de APIs: O que pensar para APIs Públicas, Microsserviços e SPAs - Celso Crivelaro",
+          "start_time": "09:40",
+          "end_time": "10:10",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "Coffe Break",
+          "title": "Coffe Break",
+          "start_time": "10:15",
+          "end_time": "10:45",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "O Flask roubou meu coração - Talita Rossari",
+          "start_time": "10:45",
+          "end_time": "11:15",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Navegando por grafos com Python - Bernardo Fontes",
+          "start_time": "10:45",
+          "end_time": "11:15",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Trabalhando com código legado - Renato Oliveira",
+          "start_time": "10:45",
+          "end_time": "11:15",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "Facebook Job Engine (FBJE): a framework for developing scalable workflows in Python - Navid Sheikhol",
+          "start_time": "11:25",
+          "end_time": "11:55",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "O que desenvolvedores deveriam aprender sobre design? - Débora Correia",
+          "start_time": "11:25",
+          "end_time": "11:55",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Começando com Python - Aprendendo para ensinar, a melhor forma de programar! - Ana Paula Mendes",
+          "start_time": "11:25",
+          "end_time": "11:55",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "Almoço",
+          "title": "Almoço",
+          "start_time": "12:00",
+          "end_time": "13:40",
+          "track": "all"
+        },
+
+
+        {
+          "talk_id": "00",
+          "title": "PyLadies e Django Girls promovendo a diversidade na tecnologia - Pyladies Brasil",
+          "start_time": "13:40",
+          "end_time": "14:10",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "A Programação Funcional em Python, de forma simples - Anderson Resende",
+          "start_time": "13:40",
+          "end_time": "14:10",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Provisionamento de redes no data center Globo.com com Python - Laura Panzariello",
+          "start_time": "13:40",
+          "end_time": "14:10",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços - Rael Max",
+          "start_time": "14:20",
+          "end_time": "14:50",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Python e tipagem estática - Carlos Henrique Coêlho",
+          "start_time": "14:20",
+          "end_time": "14:50",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Usando Python e Django para ampliar a democracia digital - Matheus Souza Fernandes",
+          "start_time": "14:20",
+          "end_time": "14:50",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "(Quase) Tudo que você precisa saber sobre tarefas assíncronas - Filipe Ximenes",
+          "start_time": "15:00",
+          "end_time": "15:30",
+          "track": "1"
+        },
+        {
+          "talk_id": "00",
+          "title": "Linha de Comando: como ser bem implementada e segura - Carla Souza",
+          "start_time": "15:00",
+          "end_time": "15:30",
+          "track": "2"
+        },
+        {
+          "talk_id": "00",
+          "title": "Geometria Computacional de Diferencial com Python e SVG: As Curvas da Bosta - Ole Peter Smith",
+          "start_time": "15:00",
+          "end_time": "15:30",
+          "track": "3"
+        },
+
+        {
+          "talk_id": "Coffe Break",
+          "title": "Coffe Break",
+          "start_time": "15:40",
+          "end_time": "16:10",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "Lightning Talks",
+          "title": "Lightning Talks",
+          "start_time": "16:10",
+          "end_time": "16:40",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "00",
+          "title": "[KEYNOTE] Andrew Godwin",
+          "start_time": "16:50",
+          "end_time": "17:30",
+          "track": "1"
+        },
+
+        {
+          "talk_id": "Encerramento",
+          "title": "Encerramento Oficial",
+          "start_time": "17:40",
+          "end_time": "18:10",
+          "track": "1"
         }
       ]
     }

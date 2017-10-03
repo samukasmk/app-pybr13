@@ -1,5 +1,127 @@
 {
 	"0.0.1": [{
+
+				"Credenciamento": {
+					"title": "Credenciamento",
+					"description": "SALA: Minas Foyer (2º Andar)",
+					"type": "default",
+					"speaker": {
+						"name": "O time da PythonBrasil ira te ajudar com o registro.",
+						"info": "Registre-se e tenha um ótimo dia!",
+						"photo": "https://cdn2.iconfinder.com/data/icons/healer-flat-vol-1/201/registration-reservation-admission-cashier-512.png"
+					}
+				},
+
+				"Almoço": {
+					"title": "Almoço",
+					"description": "Fique a vontade para almoçar onde bem quiser.",
+					"type": "default",
+					"speaker": {
+						"name": "Hora de desbravar o universo Gourmet de Minas Gerais!",
+						"info": "A hora do almoço é o momento perfeito para conversar e conhecer novas pessoas.",
+						"photo": "http://blog.estantevirtual.com.br/wp-content/uploads/culinaria-brasileira.jpg"
+					}
+				},
+
+				"Coffe Break": {
+					"title": "Coffe Break",
+					"description": "SALA: Aquamarine",
+					"type": "default",
+					"speaker": {
+						"name": "Parada para aquele cafezim, pão de queijo, doce de leite e todas as guloseimas maravilhosas de Minas Gerais.",
+						"info": "Aproveite o momento e faça grandes amizades :D",
+						"photo": "http://www.pousadasuicamineira.com.br/wp-content/uploads/2014/04/caf%C3%A9-da-manh%C3%A3-pousada-suica-mineira.jpg"
+					}
+				},
+
+				"Lightning talks": {
+					"title": "Lightning talks",
+					"description": "As palestras relâmpagos tem a duração de 5min, dando a possibilidade de quem esta de ouvinte na conferencia também dar uma contribução direta. Ao termino do tempo todos batem palma, não tenha medo.",
+					"type": "lightningtalks",
+					"speaker": {
+						"name": "Corra que o registro na fila é por ordem de chegada!",
+						"info": "Tome coragem e faça uma lightning talk você também.",
+						"photo": "https://media.arabnet.me/site_media/uploads/home_page_images/2013/02/07/announcing-lightning-talks-arabnet-beirut-2013.jpg"
+					}
+				},
+
+				"Abertura": {
+					"title": "Abertura",
+					"description": "",
+					"type": "default",
+					"speaker": {
+						"name": "S R Mustafa & Sheeba Khan",
+						"info": "Official opening of PythonBrasilConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
+						"photo": "http://www.newscaststudio.com/wp-content/uploads/2016/07/2016-rio-olympics-opening-ceremony-promo.png"
+					}
+				},
+
+				"Abertura - Comunidade PythonMG": {
+					"title": "Abertura - Comunidade PythonMG",
+					"description": "",
+					"type": "default",
+					"speaker": {
+						"name": "S R Mustafa & Sheeba Khan",
+						"info": "Official opening of PythonBrasilConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
+						"photo": "http://www.newscaststudio.com/wp-content/uploads/2016/07/2016-rio-olympics-opening-ceremony-promo.png"
+					}
+				},
+				"Encerramento": {
+					"title": "Encerramento",
+					"description": "Hora de se preparar para tomar uma boa cerveja e aquela cachacinha mineira.",
+					"type": "default",
+					"speaker": {
+						"name": "Cacilds!",
+						"info": "",
+						"photo": "http://2.bp.blogspot.com/-o9IuwCP79AY/VLGGbbHBRVI/AAAAAAAAB6w/xEc8J3NThZU/s1600/2014-717822682-os-trapalhoes-mussum-i0000758.jpg_20140527.jpg"
+					}
+				},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		"00": {
 			"title": "Registration",
 			"description": "Register yourselves and get your goodie bag. Have a great day!",

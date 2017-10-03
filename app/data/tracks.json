@@ -47,23 +47,17 @@
 
 				"Abertura": {
 					"title": "Abertura",
-					"description": "",
+					"description": "O evento de abertura é feito pelos organizadores, voluntarios a comunidade de Python que esta sediando a conferencia.",
 					"type": "default",
 					"speaker": {
-						"name": "S R Mustafa & Sheeba Khan",
-						"info": "Official opening of PythonBrasilConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
-						"photo": "http://www.newscaststudio.com/wp-content/uploads/2016/07/2016-rio-olympics-opening-ceremony-promo.png"
-					}
-				},
-
-				"Abertura - Comunidade PythonMG": {
-					"title": "Abertura - Comunidade PythonMG",
-					"description": "",
-					"type": "default",
-					"speaker": {
-						"name": "S R Mustafa & Sheeba Khan",
-						"info": "Official opening of PythonBrasilConf 2017. Our presenters Anuvrat Parashar, S R Mustafa, V.P L-Incubator & Sheeba Khan Manager at L-Incubator, would be introducing our special guests to the audience and asking them to speak a few word about the event.",
-						"photo": "http://www.newscaststudio.com/wp-content/uploads/2016/07/2016-rio-olympics-opening-ceremony-promo.png"
+						"name": "Comunidade Mineira de Python",
+						"info": "",
+						"photo": "https://avatars0.githubusercontent.com/u/1778356?v=4&s=200",
+						"social": [{
+							"twitter": "https://twitter.com/pythonmg",
+							"github": "https://github.com/pythonmg",
+							"website": "https://pythonmg.github.io/"
+						}]
 					}
 				},
 				"Encerramento": {
@@ -77,10 +71,55 @@
 					}
 				},
 
+				"100": {
+					"title": "KEYNOTE",
+					"description": "",
+					"type": "keynote",
+					"speaker": {
+						"name": "Paola Katherine",
+						"info": "Desenvolvedora backend, agora tentando empreender com sua primeira empresa na Argentina, primeira brasileira diretora da PSF, metida a ensinar Python pelo youtube, atualmente vive em Mendoza mas é carioca mais que da gema. Co-criadora de Pyladies Mendoza e Python Mendoza. Organizou inúmeros Django Girls e é viciada nisso. Co-criadora Rio DevDay e Argentina DevDay, que são conferencias grátis como foco em estudantes e curiosos. Acredita que comunidade é sua segunda família.",
+						"photo": "http://2017.pythonbrasil.org.br/images/speakers/paolakatherine.jpg",
+						"social": [{
+							"twitter": "https://twitter.com/pk_pacheco",
+							"github": "https://github.com/PKpacheco",
+							"Website": "https://about.me/pkcpweb"
+						}]
+					}
+				},
 
+				"101": {
+				  "title": "Serenata de Amor: Inteligência artificial usando dados abertos governamentais",
+				  "description": "Conheça o projeto Serenata de Amor, uma iniciativa de ciência de dados com código aberto e financiamento coletivo que construiu uma plataforma de inteligência artificial capaz de minerar e buscar discrepâncias na prestação de contas dos gastos de nossos deputados federais.\n[Ciência de Dados, Open Source, Dados Abertos]",
+				  "type": "talk",
+				  "speaker": {
+				    "name": "Jessica Temporal",
+				    "info": "Developer, data science and minions lover. Crazy in love with life.",
+				    "photo": "https://pbs.twimg.com/profile_images/899341321588146184/ZSQFp67q_400x400.jpg",
+				    "social": [{
+              "proposal": "https://speakerfight.com/events/python-brasil-13-palestras/#serenata-de-amor-inteligencia-artificial-usando-dados-abertos-governamentais",
+				      "twitter": "https://twitter.com/jesstemporal",
+				      "github": "https://github.com/jtemporal",
+				      "website": "http://jtemporal.com/"
+				    }]
+				  }
+				},
 
-
-
+				"102": {
+				  "title": "Python na Manutenção de mais de 100 mil embarcados",
+				  "description": "Nesta palestra será apresentada a solução implementada para centralizar, automatizar e permitir que qualquer máquina embarcada do case de um dos maiores Bancos do País seja acessada remotamente para tarefas de gerenciamento e manutenção.",
+				  "type": "talk",
+				  "speaker": {
+				    "name": "Tiago Assunção",
+				    "info": "Graduado em Engenharia de Software pela Universidade de Brasília, atuando como Analista de Infraestrutura na 4linux.",
+				    "photo": "https://graph.facebook.com/v2.4/1705767706106989/picture?type=square&height=600&width=600&return_ssl_resources=1",
+				    "social": [{
+              "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-na-manutencao-de-mais-de-100-mil-embarcados",
+				      "github": "https://github.com/TiagoAssuncao",
+				      "facebook": "https://www.facebook.com/tiago.ribeiro.351104",
+							"linkedin": "https://www.linkedin.com/in/tiago-r-assun%C3%A7%C3%A3o-40118a52/"
+				    }]
+				  }
+				},
 
 
 

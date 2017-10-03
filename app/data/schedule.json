@@ -11,14 +11,14 @@
           "track": "1"
         },
         {
-          "talk_id": "01",
+          "talk_id": "Abertura",
           "title": "Abertura - Comunidade PythonMG",
           "start_time": "09:00",
           "end_time": "09:30",
           "track": "1"
         },
         {
-          "talk_id": "02",
+          "talk_id": "100",
           "title": "[KEYNOTE] Paola Katherine",
           "start_time": "09:40",
           "end_time": "10:20",
@@ -35,21 +35,21 @@
 
 
         {
-          "talk_id": "04",
+          "talk_id": "101",
           "title": "Serenata de Amor: Inteligência artificial usando dados abertos governamentais - Jessica Temporal",
           "start_time": "11:00",
           "end_time": "11:30",
           "track": "1"
         },
         {
-          "talk_id": "05",
+          "talk_id": "102",
           "title": "Python na Manutenção de mais de 100 mil embarcados - Tiago Assunção",
           "start_time": "11:00",
           "end_time": "11:30",
           "track": "2"
         },
         {
-          "talk_id": "06",
+          "talk_id": "103",
           "title": "Como NÃO programar em Python: crimes dolosos e com agravante - Ryllari Santana",
           "start_time": "11:00",
           "end_time": "11:30",

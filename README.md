@@ -16,7 +16,7 @@ ESSE APLICATIVO É APENAS PARA ESTUDO, E SE ISENTA DE QUALQUER RESPONSABILIDADE 
 - https://play.google.com/store/apps/details?id=br.org.pythonbrasil.pybr13
 
 
-#### ABAIXO Segue mais informações do aplicativo original da comunidade PyDelhi
+## ABAIXO Segue mais informações do aplicativo original da comunidade PyDelhi
 
 
 > Mobile App for Python Brasil [13] 2017

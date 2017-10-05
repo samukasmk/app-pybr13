@@ -1,9 +1,16 @@
 {
  "0.0.1": [
    {
-    "contato": "http://samuka.io",
-    "github": "https://github.com/samukasmk/pythonbrasil_mobile",
-    "aboutapp": "Você sabia que esse aplicativo foi contruido com Python e Kivy ? :)\n\nO projeto original foi desenvolvido pela comunidade de Python da Nova Delhi (na India): github.com/pydelhi/pydelhi_mobile.\n\nE reaproveitado pelo Samuel Sampaio (Samuka) como exemplo pratico de Python no celular.\n\nSó não reparem na qualidade do códido, pois foi adaptado em 2 madrugadas mau dormidas.\n\nComo diria o saudoso Deo #NoSleepForYou."
+
+    "aboutapp": "Observação: Esse é um aplicativo EXTRA-OFICIAL de exemplo de Python para celular. Use o aplicativo oficial da Python Brasil para maior confiabilidade.\n\nVocê sabia que esse aplicativo foi contruido com Python e Kivy ? :)\n\nO projeto original foi desenvolvido pela comunidade de Python da Nova Delhi (na India): github.com/pydelhi/pydelhi_mobile.\n\nE reaproveitado pelo Samuel Sampaio (Samuka) como exemplo pratico de Python no celular.\n\nSó não reparem na qualidade do código, pois adaptei em 2 madrugadas mau dormidas.\n\nComo diria o saudoso Deo #NoSleepForYou.\n\nSegue meus contatos abaixo:",
+    "social": {
+      "telegram": "https://t.me/samukasmk",
+      "twitter": "https://twitter.com/samukasmk",
+      "facebook": "https://facebook.com/samukasmk",
+      "linkedin": "https://www.linkedin.com/in/samuelsampaio",
+      "website": "http://samuka.io",
+      "proposal": "https://github.com/samukasmk/pythonbrasil_mobile"
+    }
    }
   ]
 }

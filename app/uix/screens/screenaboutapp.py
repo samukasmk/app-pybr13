@@ -1,6 +1,7 @@
 from kivy.uix.screenmanager import Screen
 from kivy.lang import Builder
 from kivy.factory import Factory
+from kivy.uix.gridlayout import GridLayout
 from functools import partial
 
 import webbrowser
@@ -13,8 +14,7 @@ class ScreenAboutApp(Screen):
     name: 'ScreenAboutApp'
     ScrollView
         id: scroll
-        BoxLayout
-            orientation: 'vertical'
+        ScrollGrid
             BackLabel
                 text: 'Sobre esse App'
                 size_hint: 1, None
@@ -22,16 +22,12 @@ class ScreenAboutApp(Screen):
                 font_size:dp(18)
             BackLabel
                 id: comm_desc
-                spacing: dp(13)
-            BoxLayout
-                orientation: 'vertical'
-                spacing: dp(13)
-                ActiveButton
-                    id: github
-                    text: "Veja o Código-fonte"
-                ActiveButton
-                    id: contato
-                    text: "Contato"
+                font_size:dp(12)
+            FloatLayout
+                GridLayout
+                    id: grid_social
+                    cols: 3
+                    spacing: dp(20)
 
         ''')
 
@@ -47,10 +43,14 @@ class ScreenAboutApp(Screen):
 
         aboutapp = aboutapp.get('0.0.1')[0]
 
-        self.ids.contato.on_released = partial(webbrowser.open, aboutapp['contato'])
-        self.ids.github.on_released = partial(webbrowser.open, aboutapp['github'])
-
         self.ids.comm_desc.text = aboutapp['aboutapp']
         self.ids.comm_desc.halign = 'left'
 
         Factory.Animation(opacity=1, d=.5).start(self.ids.scroll)
+
+        for rede in aboutapp['social'].keys():
+
+            imbt = Factory.ImBut()
+            imbt.source = 'atlas://data/default/' + rede
+            imbt.on_released = partial(webbrowser.open, aboutapp['social'][rede])
+            self.ids.grid_social.add_widget(imbt)

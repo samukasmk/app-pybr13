@@ -37,11 +37,8 @@ class NavigationScreen(Screen):
 
             MenuButton
                 id: bt_sched
-                text: 'Programação'
+                text: 'Palestras'
                 on_released: app.load_screen('ScreenSchedule', manager=app.navigation_manager)
-            MenuButton
-                text: 'Localização'
-                on_released: app.load_screen('ScreenVenue', manager=app.navigation_manager)
             MenuButton
                 text: 'Ingressos'
                 on_released: app.load_screen('ScreenTicket', manager=app.navigation_manager)

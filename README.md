@@ -8,7 +8,7 @@ Andei brincando com o Kivy aqui e fiz um aplicativo (DE EXEMPLO) da PythonBrasil
 #### Segue o Pacote APK para android:
  - [PythonBrasil-2017-Alternativo-0.1.apk](https://github.com/samukasmk/pythonbrasil_mobile/blob/master/PythonBrasil-2017-Alternativo-0.1.apk)
 
-#### Lembrando que esse não tem a intenção de ser oficial!
+## Lembrando que esse não tem a intenção de ser oficial!
 
 ESSE APLICATIVO É APENAS PARA ESTUDO, E SE ISENTA DE QUALQUER RESPONSABILIDADE COM A VERACIDADE.
 

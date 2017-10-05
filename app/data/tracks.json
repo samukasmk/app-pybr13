@@ -150,6 +150,7 @@
 						"photo": "http://2017.pythonbrasil.org.br/images/speakers/manuel-kaufmann.jpg",
 						"social": [{
 							"twitter": "https://twitter.com/reydelhumo",
+							"github": "https://github.com/humitos/",
 							"Website": "http://elblogdehumitos.com "
 						}]
 					}
@@ -160,12 +161,11 @@
             "speaker": {
                 "info": "",
                 "name": "Elinaldo Monteiro",
-                "photo": "https://www.gravatar.com/avatar/4c1463194810d6e37e73be12956f8760?s=40&d=mm",
+                "photo": "https://www.gravatar.com/avatar/4c1463194810d6e37e73be12956f8760m",
                 "social": [{
                     "facebook": "https://facebook.com/https://www.facebook.com/elinaldosoft",
                     "github": "https://github.com/https://github.com/elinaldosoft",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#0o0-bots-automatizando-tarefas-um-funcionario-que-nao-reclama",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#0o0-bots-automatizando-tarefas-um-funcionario-que-nao-reclama"
                 }]
             },
             "title": "Bots (automatizando tarefas) um funcionário que não reclama",
@@ -178,10 +178,7 @@
                 "name": "Anderson Resende",
                 "photo": "https://graph.facebook.com/v2.4/1439665433025298/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#a-programacao-funcional-em-python-de-forma-simples-2",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#a-programacao-funcional-em-python-de-forma-simples-2"
                 }]
             },
             "title": "A Programação Funcional em Python, de forma simples",
@@ -194,10 +191,10 @@
                 "name": "Bruno Rocha",
                 "photo": "https://avatars1.githubusercontent.com/u/458654?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
+										"twitter": "https://twitter.com/rochacbruno",
+										"github": "https://github.com/rochacbruno/",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#a-qualidade-do-ecossistema-python-e-o-que-podemos-fazer-para-mante-la",
-                    "website": ""
+										"website": "about.me/rochacbruno"
                 }]
             },
             "title": "A Qualidade do Ecossistema Python - e o que podemos fazer para mantê-la",
@@ -210,10 +207,10 @@
                 "name": "Paula Grangeiro",
                 "photo": "https://graph.facebook.com/v2.4/865201390216236/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
+										"twitter": "https://twitter.com/paulagrangeiro",
+										"github": "https://github.com/pgrangeiro/",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#agilizando-o-ciclo-de-desenvolvimento-de-software-com-a-ajuda-de-testes-unitarios",
-                    "website": ""
+										"website": "paulagrangeiro.com.br"
                 }]
             },
             "title": "Agilizando o ciclo de desenvolvimento de software com a ajuda de testes unitários",
@@ -226,10 +223,7 @@
                 "name": "Paula Santos",
                 "photo": "https://graph.facebook.com/v2.4/904912869648916/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#analise-de-imagens-e-machine-learning-utilizando-python-e-opencv-python-cientifico",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#analise-de-imagens-e-machine-learning-utilizando-python-e-opencv-python-cientifico"
                 }]
             },
             "title": "Análise de imagens e machine learning utilizando Python e openCV",
@@ -240,12 +234,11 @@
             "speaker": {
                 "info": "",
                 "name": "Laura Panzariello",
-                "photo": "https://www.gravatar.com/avatar/7e3eb83614b34d91d1587eaab44bcf5d?s=40&d=mm",
+                "photo": "https://www.gravatar.com/avatar/7e3eb83614b34d91d1587eaab44bcf5dm",
                 "social": [{
                     "facebook": "https://facebook.com/laurapanzariello",
                     "github": "https://github.com/laurapanzariello",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#automatizando-provisionamento-de-rede-em-data-centers-com-arquitetura-spine-and-leaf-com-python",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#automatizando-provisionamento-de-rede-em-data-centers-com-arquitetura-spine-and-leaf-com-python"
                 }]
             },
             "title": "Provisionamento de redes no data center Globo.com com Python",
@@ -258,10 +251,9 @@
                 "name": "Daniela Petruzalek",
                 "photo": "https://graph.facebook.com/v2.4/2156035871289568/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#big-data-com-apache-spark-na-globocom-2",
-                    "website": ""
+										"twitter": "https://twitter.com/danicat83",
+										"github": "https://github.com/danicat",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#big-data-com-apache-spark-na-globocom-2"
                 }]
             },
             "title": "Big Data com Apache Spark na Globo.com",
@@ -274,10 +266,7 @@
                 "name": "Ana Da Silva Mendes",
                 "photo": "https://graph.facebook.com/v2.4/2050141818543450/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#comecando-com-python-aprendendo-para-ensinar-a-melhor-forma-de-programar",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#comecando-com-python-aprendendo-para-ensinar-a-melhor-forma-de-programar"
                 }]
             },
             "title": "Começando com Python - Aprendendo para ensinar, a melhor forma de programar!",
@@ -288,12 +277,11 @@
             "speaker": {
                 "info": "",
                 "name": "Ryllari Santana",
-                "photo": "https://www.gravatar.com/avatar/b6afc45ba08adb4f42597eee82eab137?s=40&d=mm",
+                "photo": "https://www.gravatar.com/avatar/b6afc45ba08adb4f42597eee82eab137m",
                 "social": [{
                     "facebook": "https://facebook.com/ryllarezita",
                     "github": "https://github.com/ryllari",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#como-nao-programar-em-python-crimes-dolosos-e-com-agravante",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#como-nao-programar-em-python-crimes-dolosos-e-com-agravante"
                 }]
             },
             "title": "Como NÃO programar em Python: crimes dolosos e com agravante",
@@ -306,10 +294,7 @@
                 "name": "Rebeca Sarai",
                 "photo": "https://avatars2.githubusercontent.com/u/17428455?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#como-python-pode-ajudar-no-desenvolvimento-agil-de-software",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#como-python-pode-ajudar-no-desenvolvimento-agil-de-software"
                 }]
             },
             "title": "Previsão de séries temporais com PyData e Inteligência Artificial",
@@ -322,8 +307,6 @@
                 "name": "Diogo Magalhães Martins",
                 "photo": "https://avatars3.githubusercontent.com/u/6271498?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#concorrencia-e-paralelismo-threads-multiplos-processos-e-asyncio-2",
                     "website": "http://www.diogommartins.com/"
                 }]
@@ -354,10 +337,8 @@
                 "name": "Hélio Meira Lins",
                 "photo": "https://avatars0.githubusercontent.com/u/4183188?v=4",
                 "social": [{
-                    "facebook": "",
                     "github": "https://github.com/meiralins",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#decifrando-as-runas-dos-anoes-com-python-e-machado-de-assis",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#decifrando-as-runas-dos-anoes-com-python-e-machado-de-assis"
                 }]
             },
             "title": "Decifrando as Runas dos Anões com Python e Machado de Assis",
@@ -370,10 +351,10 @@
                 "name": "Julio Cesar Eiras",
                 "photo": "https://avatars3.githubusercontent.com/u/2574306?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#desafios-e-vantagens-do-trabalho-remoto-freelancer-python",
-                    "website": ""
+										"twitter": "https://twitter.com/jcemelanda",
+										"github": "https://github.com/jcemelanda/",
+										"facebook": "https://www.facebook.com/jcemelanda",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#desafios-e-vantagens-do-trabalho-remoto-freelancer-python"
                 }]
             },
             "title": "Desafios e vantagens do trabalho remoto freelancer Python",
@@ -386,10 +367,11 @@
                 "name": "Douglas Bastos",
                 "photo": "https://lh4.googleusercontent.com/-JTYOOwJIr0A/AAAAAAAAAAI/AAAAAAAAHEQ/vWMkwztjsKw/photo.jpg",
                 "social": [{
+										"twitter": "https://twitter.com/douglasbastosok",
                     "facebook": "https://facebook.com/douglasbastosok",
                     "github": "https://github.com/douglasbastos",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#descomplicando-os-mocks-3",
-                    "website": "http://www.github.com/douglasbastos"
+                    "website": "http://douglasbastos.github.io"
                 }]
             },
             "title": "Descomplicando os mocks",
@@ -402,6 +384,7 @@
                 "name": "Kátia Yoshime Nakamura",
                 "photo": "https://lh5.googleusercontent.com/-1QIpEAR2Qe8/AAAAAAAAAAI/AAAAAAAAABM/clGha7XEWR4/photo.jpg",
                 "social": [{
+										"twitter": "https://twitter.com/KatiaNakamura",
                     "facebook": "https://facebook.com/katiaynakamura",
                     "github": "https://github.com/katiayn",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#django-e-reactjs-trabalhando-juntos-intermediario-django-reactjs",
@@ -416,7 +399,7 @@
             "speaker": {
                 "info": "",
                 "name": "Moisés Guimarães",
-                "photo": "https://www.gravatar.com/avatar/e69e55e785085967c962833b6f23f7d8?s=40&d=mm",
+                "photo": "https://www.gravatar.com/avatar/e69e55e785085967c962833b6f23f7d8m",
                 "social": [{
                     "facebook": "https://facebook.com/guimaraes.moises",
                     "github": "https://github.com/moisesguimaraes",
@@ -434,10 +417,7 @@
                 "name": "Navid Sheikhol",
                 "photo": "https://graph.facebook.com/v2.4/10154587453977411/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "https://speakerfight.com/events/python-brasil-13-palestras/#facebook-job-engine-fbje-a-framework-for-developing-scalable-workflows-in-python",
-                    "website": ""
+                    "proposal": "https://speakerfight.com/events/python-brasil-13-palestras/#facebook-job-engine-fbje-a-framework-for-developing-scalable-workflows-in-python"
                 }]
             },
             "title": "Facebook Job Engine (FBJE): a framework for developing\n        scalable workflows in Python",
@@ -450,10 +430,7 @@
                 "name": "Thomaz de Oliveira dos Reis",
                 "photo": "https://lh5.googleusercontent.com/-AQB28vqL2bQ/AAAAAAAAAAI/AAAAAAAACqU/1XxemlUFxRs/photo.jpg",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#generators-e-programacao-assincrona-com-python",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#generators-e-programacao-assincrona-com-python"
                 }]
             },
             "title": "Generators e Programação Assincrona com Python",
@@ -466,10 +443,10 @@
                 "name": "Álvaro Justen",
                 "photo": "https://avatars2.githubusercontent.com/u/186126?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#genero-e-numero-python-ajudando-nas-questoes-de-genero-brasileiras",
-                    "website": ""
+										"twitter": "https://twitter.com/turicas",
+										"github": "https://github.com/turicas/",
+										"facebook": "https://www.facebook.com/alvarojusten",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#genero-e-numero-python-ajudando-nas-questoes-de-genero-brasileiras"
                 }]
             },
             "title": "Gênero e Número: Python ajudando nas questões de gênero brasileiras",
@@ -479,13 +456,10 @@
             "description": "Dizem que uma imagem diz mais do que mil palavras. Então, uma animação deve dizer mais do que mil elevado a tantos... Infelizmente a Matemática tem um... (veja a proposta completa abaixo)",
             "speaker": {
                 "info": "",
-                "name": "Ole",
-                "photo": "https://www.gravatar.com/avatar/82f4345815443a1b1f6edfe474e6a0a0?s=40&d=mm",
+                "name": "Ole Peter Smith",
+                "photo": "https://www.gravatar.com/avatar/82f4345815443a1b1f6edfe474e6a0a0m",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#geometria-diferencial-computacional-com-python-e-svg-as-curvas-da-bosta",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#geometria-diferencial-computacional-com-python-e-svg-as-curvas-da-bosta"
                 }]
             },
             "title": "Geometria Computacional de Diferencial com Python e SVG: As Curvas da Bosta",
@@ -498,10 +472,7 @@
                 "name": "Nicolle Cysneiros",
                 "photo": "https://avatars0.githubusercontent.com/u/3246075?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#graphql-nem-sempre-rest-e-a-melhor-alternativa-para-sua-api",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#graphql-nem-sempre-rest-e-a-melhor-alternativa-para-sua-api"
                 }]
             },
             "title": "GraphQL: nem sempre REST é a melhor alternativa para sua API",
@@ -514,10 +485,7 @@
                 "name": "Diego Guimarães",
                 "photo": "https://avatars2.githubusercontent.com/u/188964?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#kivy-python-no-celular-e-em-varios-outros-lugares-5",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#kivy-python-no-celular-e-em-varios-outros-lugares-5"
                 }]
             },
             "title": "Kivy: Python no celular e em vários outros lugares!",
@@ -546,10 +514,11 @@
                 "name": "Bernardo Fontes",
                 "photo": "https://graph.facebook.com/v2.4/100000286121230/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
+										"twitter": "https://twitter.com/bbfontes",
+										"github": "https://github.com/berinhard/",
+										"facebook": "https://www.facebook.com/bernardofontes",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#navegando-por-grafos-com-python",
-                    "website": ""
+										"website": "http://berinfontes.com/"
                 }]
             },
             "title": "Navegando por grafos com Python",
@@ -562,10 +531,7 @@
                 "name": "Rael Max",
                 "photo": "https://avatars0.githubusercontent.com/u/459390?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-fim-de-uma-era-os-desafios-de-transformar-um-monolito-de-8-anos-em-microservicos",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-fim-de-uma-era-os-desafios-de-transformar-um-monolito-de-8-anos-em-microservicos"
                 }]
             },
             "title": "O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços",
@@ -578,10 +544,9 @@
                 "name": "Talita Rossari",
                 "photo": "https://graph.facebook.com/v2.4/800133810122133/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-flask-roubou-meu-coracao",
-                    "website": ""
+										"github": "https://github.com/TalitaRossari",
+										"facebook": "https://www.facebook.com/TalitaRossari",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-flask-roubou-meu-coracao"
                 }]
             },
             "title": "O Flask roubou meu coração",
@@ -594,10 +559,7 @@
                 "name": "Débora Correia",
                 "photo": "https://avatars.githubusercontent.com/u/5848493?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#o-que-desenvolvedores-deveriam-aprender-sobre-design"
                 }]
             },
             "title": "O que desenvolvedores deveriam aprender sobre design?",
@@ -607,13 +569,11 @@
             "description": "Sempre que iniciamos um novo projeto queremos que ele seja perfeito, o código tem que ser bem escrito, com alta coesão, baixo acoplamento, SOLID, KISS... (veja a proposta completa abaixo)",
             "speaker": {
                 "info": "",
-                "name": "Darlene",
-                "photo": "https://www.gravatar.com/avatar/bd7dbe61d56c5e3bad64f6b77f462984?s=40&d=mm",
+                "name": "Darlene Medeiros",
+                "photo": "https://www.gravatar.com/avatar/bd7dbe61d56c5e3bad64f6b77f462984m",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#padroes-arquiteturais-muito-alem-do-mvc",
-                    "website": ""
+										"facebook": "https://www.facebook.com/darlene.medeiros.169",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#padroes-arquiteturais-muito-alem-do-mvc"
                 }]
             },
             "title": "Padrões Arquiteturais, muito além do MVC",
@@ -624,8 +584,9 @@
             "speaker": {
                 "info": "",
                 "name": "Osvaldo Santana Neto",
-                "photo": "https://www.gravatar.com/avatar/9274b1eafb37f921c2db2ca6ecfc6f04?s=40&d=mm",
+                "photo": "https://pbs.twimg.com/profile_images/880985503138545665/J33dOpMX_400x400.jpg",
                 "social": [{
+										"twitter": "https://twitter.com/osantana",
                     "facebook": "https://facebook.com/osantanabr",
                     "github": "https://github.com/osantana",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#plataforma-distribuida-de-microservicos-ou-como-a-olist-funciona",
@@ -642,10 +603,7 @@
                 "name": "Flávio Juvenal",
                 "photo": "https://avatars1.githubusercontent.com/u/397989?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "https://speakerfight.com/events/python-brasil-13-palestras/#prevenindo-dores-de-cabeca-com-linters-e-checagens-automaticas-2",
-                    "website": ""
+                    "proposal": "https://speakerfight.com/events/python-brasil-13-palestras/#prevenindo-dores-de-cabeca-com-linters-e-checagens-automaticas-2"
                 }]
             },
             "title": "Prevenindo dores de cabeça com linters e checagens automáticas",
@@ -658,10 +616,7 @@
                 "name": "Celso Crivelaro",
                 "photo": "https://avatars1.githubusercontent.com/u/805582?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#projetos-de-apis-o-que-pensar-para-apis-publicas-microservicos-e-spas",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#projetos-de-apis-o-que-pensar-para-apis-publicas-microservicos-e-spas"
                 }]
             },
             "title": "Projetos de APIs: O que pensar para APIs Públicas, Microsserviços e SPAs",
@@ -672,7 +627,7 @@
             "speaker": {
                 "info": "",
                 "name": "PyLadies Brasil",
-                "photo": "https://www.gravatar.com/avatar/fe8d19d6ad15194b518f594984b3a458?s=40&d=mm",
+                "photo": "http://brasil.pyladies.com/images/pyladies-brasil-logo.png",
                 "social": [{
                     "facebook": "https://facebook.com/PyLadiesBrazil",
                     "github": "https://github.com/pyladies-brazil",
@@ -688,12 +643,9 @@
             "speaker": {
                 "info": "",
                 "name": "Alice Adativa",
-                "photo": "https://www.gravatar.com/avatar/95cdd9a367bf07112a7f3ea0e7ebd0dc?s=40&d=mm",
+                "photo": "https://www.gravatar.com/avatar/95cdd9a367bf07112a7f3ea0e7ebd0dcm",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-ciencia-dos-dados-e-redes-sociais-uma-combinacao-poderosa-2",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-ciencia-dos-dados-e-redes-sociais-uma-combinacao-poderosa-2"
                 }]
             },
             "title": "Python, ciência dos dados e redes sociais: uma combinação poderosa",
@@ -724,8 +676,7 @@
                 "social": [{
                     "facebook": "https://facebook.com/tiago.ribeiro.351104",
                     "github": "https://github.com/TiagoAssuncao",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-na-manutencao-de-mais-de-100-mil-embarcados",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-na-manutencao-de-mais-de-100-mil-embarcados"
                 }]
             },
             "title": "Python na Manutenção de mais de 100 mil embarcados",
@@ -738,7 +689,6 @@
                 "name": "Alan Justino da Silva",
                 "photo": "https://avatars0.githubusercontent.com/u/155623?v=3",
                 "social": [{
-                    "facebook": "",
                     "github": "https://github.com/alanjds",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#python-runtime-sem-gil-em-golang-grumpy",
                     "website": "http://www.apiregistro.com.br/"
@@ -754,6 +704,7 @@
                 "name": "Filipe A Ximenes",
                 "photo": "https://avatars3.githubusercontent.com/u/1180884?v=4",
                 "social": [{
+										"twitter": "https://twitter.com/xima",
                     "facebook": "https://facebook.com/filipeaximenes",
                     "github": "https://github.com/filipeximenes",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#quase-tudo-que-voce-precisa-saber-sobre-tarefas-assincronas-2",
@@ -770,10 +721,9 @@
                 "name": "Bianca Rosa",
                 "photo": "https://avatars0.githubusercontent.com/u/1480558?v=4",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#redes-neurais-com-python-e-scikit",
-                    "website": ""
+										"twitter": "https://twitter.com/__biancarosa",
+										"github": "https://github.com/biancarosa",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#redes-neurais-com-python-e-scikit"
                 }]
             },
             "title": "Redes Neurais com Python e Scikit",
@@ -786,10 +736,10 @@
                 "name": "Lais Varejão",
                 "photo": "https://lh6.googleusercontent.com/-q-D1R6lcFnU/AAAAAAAAAAI/AAAAAAAAA1U/UJu8Vin1e-c/photo.jpg",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#salvando-grandes-projetos",
-                    "website": ""
+										"twitter": "https://twitter.com/laisvarejao",
+										"github": "https://github.com/laisvarejao",
+										"facebook": "https://www.facebook.com/laisvarejao",
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#salvando-grandes-projetos"
                 }]
             },
             "title": "Salvando grandes projetos",
@@ -799,13 +749,13 @@
             "description": "Conheça o projeto Serenata de Amor, uma iniciativa de ciência de dados com código aberto e financiamento coletivo que construiu uma plataforma de inte... (veja a proposta completa abaixo)",
             "speaker": {
                 "info": "",
-                "name": "jtemporal",
-                "photo": "https://www.gravatar.com/avatar/35beca46843e4adcbd43df1bc93ce38b?s=40&d=mm",
+                "name": "Jessica Temporal",
+                "photo": "https://www.gravatar.com/avatar/35beca46843e4adcbd43df1bc93ce38b",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
+                    "github": "https://github.com/jtemporal",
+										"facebook": "https://www.facebook.com/jetemporal",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#serenata-de-amor-inteligencia-artificial-usando-dados-abertos-governamentais",
-                    "website": ""
+                    "website": "https://twitter.com/jesstemporal"
                 }]
             },
             "title": "Serenata de Amor: Inteligência artificial usando dados abertos governamentais",
@@ -818,6 +768,7 @@
                 "name": "Henrique Bastos",
                 "photo": "https://graph.facebook.com/v2.4/10154034810828098/picture?type=square&height=600&width=600&return_ssl_resources=1",
                 "social": [{
+										"twitter": "https://twitter.com/henriquebastos",
                     "facebook": "https://facebook.com/henriquebastos",
                     "github": "https://github.com/henriquebastos",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#the-walking-dev",
@@ -834,6 +785,7 @@
                 "name": "Renato dos Santos Oliveira",
                 "photo": "https://avatars2.githubusercontent.com/u/613912?v=4",
                 "social": [{
+										"twitter": "https://twitter.com/_renatoOliveira",
                     "facebook": "https://facebook.com/renatosoliveira",
                     "github": "https://github.com/renatooliveira",
                     "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#trabalhando-com-codigo-legado",
@@ -850,10 +802,7 @@
                 "name": "Matheus Fernandes",
                 "photo": "https://avatars0.githubusercontent.com/u/2891076?v=3",
                 "social": [{
-                    "facebook": "",
-                    "github": "",
-                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#usando-python-e-django-para-ampliar-a-democracia-digital",
-                    "website": ""
+                    "proposal": "http://speakerfight.com/events/python-brasil-13-palestras/#usando-python-e-django-para-ampliar-a-democracia-digital"
                 }]
             },
             "title": "Usando Python e Django para ampliar a democracia digital",

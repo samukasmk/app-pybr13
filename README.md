@@ -1,5 +1,22 @@
-Python Brasil [13] 2017 Application 
+Python Brasil [13] 2017 Application
 =============================
+
+Fala Pessoal,
+
+Andei brincando com o Kivy aqui e fiz um aplicativo (DE EXEMPLO) da PythonBrasil, com a grade, e coisas simples.
+
+#### Segue o Pacote APK para android:
+ - [PythonBrasil-2017-Alternativo-0.1.apk](https://github.com/samukasmk/pythonbrasil_mobile/blob/master/PythonBrasil-2017-Alternativo-0.1.apk)
+
+#### Lembrando que esse não tem a intenção de ser oficial!
+
+ESSE APLICATIVO É APENAS PARA ESTUDO, E SE ISENTA DE QUALQUER RESPONSABILIDADE COM A VERACIDADE.
+
+**PARA TOTAL CONFIABILIDADE UTILIZE O APP OFICIAL DA PYTHONBRASIL13:**
+- https://play.google.com/store/apps/details?id=br.org.pythonbrasil.pybr13
+
+
+#### ABAIXO Segue mais informações do aplicativo original da comunidade PyDelhi
 
 
 > Mobile App for Python Brasil [13] 2017
@@ -13,7 +30,7 @@ Python Brasil [13] 2017 Application
    - Make sure you have `pillow` installed. `pip install pillow --user`
    - Paste/change the image in PythonBrasilConf/tools/theming
    - Change your directory to PythonBrasilConf
-   - Run command ``make theming`` 
+   - Run command ``make theming``
 
 ### To test install kivy and run the following::
 

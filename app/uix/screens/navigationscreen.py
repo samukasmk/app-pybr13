@@ -43,9 +43,6 @@ class NavigationScreen(Screen):
                 text: 'Localização'
                 on_released: app.load_screen('ScreenVenue', manager=app.navigation_manager)
             MenuButton
-                text: 'Patrocinadores'
-                on_released: app.load_screen('ScreenSponsor', manager=app.navigation_manager)
-            MenuButton
                 text: 'Ingressos'
                 on_released: app.load_screen('ScreenTicket', manager=app.navigation_manager)
             MenuButton
@@ -55,11 +52,11 @@ class NavigationScreen(Screen):
                 text: 'Código de Conduta'
                 on_released: app.load_screen('ScreenCoC', manager=app.navigation_manager)
             MenuButton
-                text: 'Contato'
+                text: 'Comunidade'
                 on_released: app.load_screen('ScreenCommunity', manager=app.navigation_manager)
             MenuButton
-                text: 'Feedback'
-                on_released: app.load_screen('ScreenFeedback', manager=app.navigation_manager)
+                text: 'Sobre esse App'
+                on_released: app.load_screen('ScreenAboutApp', manager=app.navigation_manager)
 
 
 <TopBar@BoxLayout>

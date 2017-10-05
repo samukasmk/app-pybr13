@@ -2,17 +2,16 @@
 	"0.0.1":[
 		{
 			"name": "PythonBrasil",
-			"about": "A community is formed by people with something in common. PythonBrasil community has been a group of buoyant developers and sparkling newbies from Delhi NCR who love Python. PythonBrasil provides a place where not just the code but community matters. A community which runs because of efforts put in by the ones wanting to keep Python and developer circles alive. We're enthralled to have you as a part of us.",
-			"photo": "https://paste.opensuse.org/images/85253798.png",
+			"about": "Uma comunidade é formada por pessoas com algo em comum. A comunidade PythonBrasil tem sido um grupo de desenvolvedores que adoram Python, provendo um ambiente diverso, respeitoso e inclusivo. O PythonBrasil fornece um lugar onde não apenas o código, mas a comunidade é importante. Uma comunidade que corre por causa dos esforços implementados por aqueles que desejam manter vivos os círculos Python e desenvolvedor.",
+			"photo": "https://pbs.twimg.com/profile_images/519180928539557888/R0bm9JR_.png",
 			"social":{
-				"website": "http://2017.pythonbrasil.org.br/",
+				"website": "http://python.org.br/",
 				"twitter": "https://twitter.com/pythonbrasil",
 				"facebook": "https://www.facebook.com/pythonbrasil",
 				"github": "https://github.com/pythonbrasil",
 				"telegram": "https://t.me/pybr13",
-				"googleplus": "http://2017.pythonbrasil.org.br/",
-				"youtube": "http://2017.pythonbrasil.org.br/",
-				"meetup": "http://2017.pythonbrasil.org.br/"
+				"googleplus": "https://groups.google.com/d/forum/python-brasil",
+				"youtube": "https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw"
 			}
 		}
 	]

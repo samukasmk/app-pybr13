@@ -36,6 +36,7 @@ def on_success(req, oldata, endpoint):
         'sponsors': 'screensponsor',
         'about': 'screenabout',
         'coc': 'screencoc',
+        'aboutapp': 'screenaboutapp',
         'venue': 'screenvenue',
         'community': 'screencommunity'}[endpoint]
     getattr(app, scr).on_enter(onsuccess=True)

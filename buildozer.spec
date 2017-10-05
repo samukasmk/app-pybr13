@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Python Brasil 2017
+title = PythonBrasil[2017][Alternativo]
 
 # (str) Package name
 package.name = conference
